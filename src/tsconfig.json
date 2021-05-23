@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "module": "None",
+    },
+    "include": ["*.ts"]
+}

@@ -1,0 +1,7 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "outFile": "../scripts/client/client.js"
+    },
+    "exclude": ["server.ts"]
+}
