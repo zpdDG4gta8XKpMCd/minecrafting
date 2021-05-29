@@ -4,4 +4,5 @@
     "editor.autoClosingQuotes": "never",
     "editor.minimap.enabled": false,
     "workbench.editor.enablePreview": false,
+    "editor.detectIndentation": false,
 }

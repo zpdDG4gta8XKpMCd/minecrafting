@@ -168,7 +168,7 @@
         "priority": 4,
         "speed_multiplier": 1.25,
         "track_target": false,
-        "reach_multiplier":  0.0 // this prevents creepers from ocasionally performing melee attacks while using this goal to chase
+        "reach_multiplier":  0.0
       },
       "minecraft:behavior.avoid_mob_type": {
         "priority": 3,
